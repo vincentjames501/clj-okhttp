@@ -1,3 +1,0 @@
-{:cljdoc.doc/tree
- [["Introduction" {:file "docs/01-overview.md"}]
-  ["Middleware" {:file "docs/02-middleware.md"}]]}
